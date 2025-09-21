@@ -1,4 +1,4 @@
-📱 About The Project
+##📱 About The Project
 Destor is a gamified learning mobile application specifically designed for design students. Originally developed as a Human-Computer Interaction course project mockup, it has now been transformed into a fully functional Flutter application with interactive features and modern UI/UX design.
 The app helps students learn design principles through interactive modules, mentor-based challenges, and gamified progress tracking, making education more engaging and enjoyable.
 
